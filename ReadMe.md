@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Coding Shastra<br>🌱 I’m currently learning React
+🔭 I’m currently working on Note Master<br>🌱 I’m currently learning React
 
 
 ## 🌐 Socials:
