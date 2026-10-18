@@ -16,19 +16,18 @@ and lately most of my time goes into tools you can host yourself.
 
 ## What I'm working on
 
+- Software Engineer and Forward Deployed Engineer at **Bug0**.
 - **[Tandem](https://github.com/Blazeiscoding/Tandem)**, open-source team chat that you host. Run the server on a VPS, or host a workspace from your own PC the way you'd open a Minecraft world to LAN. Every message, file and account lives in one folder on the host's machine.
-- **[Better Learn](https://www.better-learn.tech/)**, a GitHub Classroom alternative. Teachers publish coding assignments, students accept them into their own repos, and every push queues an isolated grading run.
 - Learning Docker, cloud infrastructure and DevOps on the side.
 
 ## Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [LeetLab](https://github.com/Blazeiscoding/LeetLab) · [live](https://www.codingshastra.codes/) | Coding practice platform. Monaco editor, code execution through Judge0, playlists and a monthly leaderboard. | React, Express, Prisma, PostgreSQL |
-| [NoteMaster](https://github.com/Blazeiscoding/notemaster-app) · [live](https://notemaster-app.vercel.app) | Notes app that works offline in guest mode and syncs to Postgres once you sign in. Encrypts note fields with AES-256-GCM and installs as a PWA. | Next.js, Prisma, Clerk |
-| [Sketchema](https://github.com/Blazeiscoding/sketchema) · [live](https://sketchema.vercel.app) | Upload a photo of a database diagram, even a hand-drawn one, and get back Prisma, Drizzle and Mongoose schemas. | Next.js, Gemini, Excalidraw |
-| [Vibe Editor](https://github.com/Blazeiscoding/vibe-editor) · [live](https://vibe-editor-sigma.vercel.app) | Coding workspace that runs in the browser on WebContainers, with a real terminal, npm installs and GitHub import/export. | Next.js, Monaco, MongoDB |
-| [S3 Clone](https://github.com/Blazeiscoding/s3clone) · [live](https://s3clone.vercel.app) | Web UI for an S3 bucket. Drag-and-drop folder uploads, rename, delete and media previews. | Next.js, AWS SDK v3 |
+| [Better-learn](https://www.better-learn.tech/) | Coding classroom built on GitHub. Teachers publish an assignment from a template repo, students accept it into their own private repo, and every push gets graded in an isolated E2B sandbox, with the result posted back as a GitHub check. | Next.js, Prisma, PostgreSQL, E2B, BullMQ |
+| [SketchSchema](https://sketchema.vercel.app/) | Turns database diagrams into schema code. Drop in a whiteboard photo, an Excalidraw or Eraser export, or a hand-drawn sketch, and get Prisma and Drizzle schemas back. | Next.js, AI, Prisma, Drizzle |
+| [Coding Shastra](https://codingshastra.nikhilrathore.com/) · [code](https://github.com/Blazeiscoding/LeetLab) | Coding practice platform. Solve problems in an in-browser editor, run them against test cases, build playlists and climb a monthly leaderboard. | React, Express, Prisma, PostgreSQL |
+| [Note Master](https://notemaster-app.vercel.app/) · [code](https://github.com/Blazeiscoding/notemaster-app) | Mobile-first notes app with per-user encryption. Works offline as a guest and syncs once you sign in. | Next.js, TypeScript, Clerk, PostgreSQL |
 
 ## Tech I use
 
