@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm Nikhil
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,60:3d59a1,100:7aa2f7&height=210&section=header&text=Nikhil%20Rathore&fontSize=54&fontColor=c0caf5&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20New%20Delhi&descSize=18&descAlignY=56" alt="Nikhil Rathore, Full Stack Developer" width="100%">
 
-Full stack developer. I build web apps with TypeScript, React, Next.js and Node,<br>
-and lately most of my time goes into tools you can host yourself.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Software+Engineer+at+Bug0;Building+Tandem%2C+self-hosted+team+chat;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js" alt="Software Engineer at Bug0. Building Tandem, self-hosted team chat.">
 
 <a href="https://www.nikhilrathore.com/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=astro&logoColor=7aa2f7" alt="Portfolio"></a>
 <a href="https://x.com/blazeiscoding"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=c0caf5" alt="X"></a>
@@ -14,20 +13,52 @@ and lately most of my time goes into tools you can host yourself.
 
 </div>
 
-## What I'm working on
+## About me
 
-- Software Engineer and Forward Deployed Engineer at **Bug0**.
-- **[Tandem](https://github.com/Blazeiscoding/Tandem)**, open-source team chat that you host. Run the server on a VPS, or host a workspace from your own PC the way you'd open a Minecraft world to LAN. Every message, file and account lives in one folder on the host's machine.
-- Learning Docker, cloud infrastructure and DevOps on the side.
+```ts
+const nikhil = {
+  role: "Software Engineer & Forward Deployed Engineer @ Bug0",
+  location: "New Delhi, India",
+  building: "Tandem, open-source team chat you host yourself",
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
+  learning: ["Docker", "Cloud", "DevOps"],
+};
+```
 
-## Projects
+Right now most of my evenings go into **[Tandem](https://github.com/Blazeiscoding/Tandem)**. You run the server on a VPS, or host a workspace from your own PC the way you'd open a Minecraft world to LAN, and every message, file and account stays in one folder on your machine.
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Better-learn](https://www.better-learn.tech/) | Coding classroom built on GitHub. Teachers publish an assignment from a template repo, students accept it into their own private repo, and every push gets graded in an isolated E2B sandbox, with the result posted back as a GitHub check. | Next.js, Prisma, PostgreSQL, E2B, BullMQ |
-| [SketchSchema](https://sketchema.vercel.app/) | Turns database diagrams into schema code. Drop in a whiteboard photo, an Excalidraw or Eraser export, or a hand-drawn sketch, and get Prisma and Drizzle schemas back. | Next.js, AI, Prisma, Drizzle |
-| [Coding Shastra](https://codingshastra.nikhilrathore.com/) · [code](https://github.com/Blazeiscoding/LeetLab) | Coding practice platform. Solve problems in an in-browser editor, run them against test cases, build playlists and climb a monthly leaderboard. | React, Express, Prisma, PostgreSQL |
-| [Note Master](https://notemaster-app.vercel.app/) · [code](https://github.com/Blazeiscoding/notemaster-app) | Mobile-first notes app with per-user encryption. Works offline as a guest and syncs once you sign in. | Next.js, TypeScript, Clerk, PostgreSQL |
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.better-learn.tech/"><img src="assets/better-learn.jpg" alt="Better-learn screenshot" width="100%"></a>
+      <h3><a href="https://www.better-learn.tech/">Better-learn</a></h3>
+      <p>Coding assignments that grade themselves. Students push to their own private repo, every commit runs in an isolated E2B sandbox, and the result shows up as a GitHub check.</p>
+      <sub>Next.js · Prisma · PostgreSQL · E2B · BullMQ</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sketchema.vercel.app/"><img src="assets/sketchschema.jpg" alt="SketchSchema screenshot" width="100%"></a>
+      <h3><a href="https://sketchema.vercel.app/">SketchSchema</a></h3>
+      <p>Diagram to schema in seconds. Drop in a whiteboard photo, an Excalidraw or Eraser export, or a hand-drawn sketch, and get Prisma and Drizzle code back.</p>
+      <sub>Next.js · AI · Prisma · Drizzle</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://codingshastra.nikhilrathore.com/"><img src="assets/coding-shastra.jpg" alt="Coding Shastra screenshot" width="100%"></a>
+      <h3><a href="https://codingshastra.nikhilrathore.com/">Coding Shastra</a> <sup><a href="https://github.com/Blazeiscoding/LeetLab">code</a></sup></h3>
+      <p>Interview practice platform. Solve problems in an in-browser editor, run them against test cases, build playlists and climb a monthly leaderboard.</p>
+      <sub>React · Express · Prisma · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://notemaster-app.vercel.app/"><img src="assets/note-master.jpg" alt="Note Master screenshot" width="100%"></a>
+      <h3><a href="https://notemaster-app.vercel.app/">Note Master</a> <sup><a href="https://github.com/Blazeiscoding/notemaster-app">code</a></sup></h3>
+      <p>Mobile-first notes app with per-user encryption. Works offline as a guest and syncs once you sign in.</p>
+      <sub>Next.js · TypeScript · Clerk · PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
 ## Tech I use
 
@@ -44,12 +75,15 @@ and lately most of my time goes into tools you can host yourself.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blazeiscoding&theme=tokyonight&hide_border=true" alt="Contribution streak">
 </div>
 
-## Support my work
+<br>
+
+<div align="center">
 
 If something I built saved you some time, you can buy me a coffee.
 
 <a href="https://paypal.me/blazeop69"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+<img src="https://komarev.com/ghpvc/?username=blazeiscoding&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views">
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=blazeiscoding&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,40:3d59a1,100:1a1b27&height=110&section=footer" alt="" width="100%">
+
+</div>
