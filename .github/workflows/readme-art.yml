@@ -1,0 +1,40 @@
+name: README art
+
+# Redraws Fig 2 and the stats card from live GitHub data and publishes them
+# to the readme-assets branch, so main never collects bot commits.
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/readme/**", ".github/workflows/readme-art.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-art
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Draw Fig 2 and the stats card
+        run: node .github/readme/live.mjs out --login "${{ github.repository_owner }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish to readme-assets
+        working-directory: out
+        run: |
+          git init -q -b readme-assets
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Redraw README art"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" readme-assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

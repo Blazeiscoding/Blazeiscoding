@@ -39,13 +39,19 @@ Right now most of my evenings go into **[Tandem](https://github.com/Blazeiscodin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.better-learn.tech/"><img src="assets/better-learn.jpg" alt="Better-learn screenshot" width="100%"></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/better-learn-frame-dark.svg">
+        <img src="assets/better-learn-frame-light.svg" alt="Better-learn screenshot" width="100%">
+      </picture>
       <h3><a href="https://www.better-learn.tech/">Better-learn</a></h3>
       <p>Coding assignments that grade themselves. Students push to their own private repo, every commit runs in an isolated E2B sandbox, and the result shows up as a GitHub check.</p>
       <sub>Next.js · Prisma · PostgreSQL · E2B · BullMQ</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://sketchema.vercel.app/"><img src="assets/sketchschema.jpg" alt="SketchSchema screenshot" width="100%"></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/sketchschema-frame-dark.svg">
+        <img src="assets/sketchschema-frame-light.svg" alt="SketchSchema screenshot" width="100%">
+      </picture>
       <h3><a href="https://sketchema.vercel.app/">SketchSchema</a></h3>
       <p>Diagram to schema in seconds. Drop in a whiteboard photo, an Excalidraw or Eraser export, or a hand-drawn sketch, and get Prisma and Drizzle code back.</p>
       <sub>Next.js · AI · Prisma · Drizzle</sub>
@@ -53,13 +59,19 @@ Right now most of my evenings go into **[Tandem](https://github.com/Blazeiscodin
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://codingshastra.nikhilrathore.com/"><img src="assets/coding-shastra.jpg" alt="Coding Shastra screenshot" width="100%"></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/coding-shastra-frame-dark.svg">
+        <img src="assets/coding-shastra-frame-light.svg" alt="Coding Shastra screenshot" width="100%">
+      </picture>
       <h3><a href="https://codingshastra.nikhilrathore.com/">Coding Shastra</a> <sup><a href="https://github.com/Blazeiscoding/LeetLab">code</a></sup></h3>
       <p>Interview practice platform. Solve problems in an in-browser editor, run them against test cases, build playlists and climb a monthly leaderboard.</p>
       <sub>React · Express · Prisma · PostgreSQL</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://notemaster-app.vercel.app/"><img src="assets/note-master.jpg" alt="Note Master screenshot" width="100%"></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/note-master-frame-dark.svg">
+        <img src="assets/note-master-frame-light.svg" alt="Note Master screenshot" width="100%">
+      </picture>
       <h3><a href="https://notemaster-app.vercel.app/">Note Master</a> <sup><a href="https://github.com/Blazeiscoding/notemaster-app">code</a></sup></h3>
       <p>Mobile-first notes app with per-user encryption. Works offline as a guest and syncs once you sign in.</p>
       <sub>Next.js · TypeScript · Clerk · PostgreSQL</sub>
@@ -74,23 +86,19 @@ Right now most of my evenings go into **[Tandem](https://github.com/Blazeiscodin
   <img src="assets/stack-light.svg" alt="Languages: TypeScript, JavaScript, C++, C. Frontend: React, Next.js, Tailwind CSS, Vite. Backend: Node.js, Express, Bun, Prisma. Data: PostgreSQL, MongoDB, Redis. Ship: Docker, AWS, Vercel, Git, Postman." width="100%">
 </picture>
 
-## GitHub stats
+## A year on GitHub
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Blazeiscoding&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=7aa2f7&text_color=9198a1&icon_color=7aa2f7&ring_color=7aa2f7&border_radius=10">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Blazeiscoding&show_icons=true&bg_color=ffffff&border_color=d1d9e0&title_color=2f5bd3&text_color=59636e&icon_color=2f5bd3&ring_color=2f5bd3&border_radius=10" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazeiscoding&layout=compact&langs_count=8&bg_color=0d1117&border_color=30363d&title_color=7aa2f7&text_color=9198a1&icon_color=7aa2f7&ring_color=7aa2f7&border_radius=10">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazeiscoding&layout=compact&langs_count=8&bg_color=ffffff&border_color=d1d9e0&title_color=2f5bd3&text_color=59636e&icon_color=2f5bd3&ring_color=2f5bd3&border_radius=10" alt="Top languages">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Blazeiscoding&background=0d1117&border=30363d&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=7aa2f7&sideLabels=9198a1&dates=656c76&border_radius=10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blazeiscoding&background=ffffff&border=d1d9e0&stroke=d1d9e0&ring=2f5bd3&fire=2f5bd3&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=2f5bd3&sideLabels=59636e&dates=818b98&border_radius=10" alt="Contribution streak">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/readme-assets/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/readme-assets/contributions-light.svg" alt="A year of GitHub contributions drawn as one isometric pillar per day, each as tall as that day's count." width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/readme-assets/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/readme-assets/stats-light.svg" alt="GitHub stats for the last 12 months: contributions, commits, pull requests, streaks, stars and languages." width="100%">
+</picture>
+
+<sub>Both are redrawn every day from live GitHub data by <a href=".github/workflows/readme-art.yml">a workflow in this repo</a>.</sub>
 
 <br>
 
