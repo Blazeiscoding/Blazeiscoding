@@ -99,4 +99,4 @@
 
 <p align="center"><sub>If something I built saved you some time, you can <a href="https://paypal.me/blazeop69">buy me a coffee</a>.</sub></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=blazeiscoding&label=profile%20views&color=2f5bd3&style=flat-square" alt="Profile views"></p>
+<p align="center"><img src="https://hits.sh/github.com/Blazeiscoding.svg?style=flat-square&label=profile%20views&color=2f5bd3&labelColor=30363d&extraCount=245" alt="Profile views"></p>
