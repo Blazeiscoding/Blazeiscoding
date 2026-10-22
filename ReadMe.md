@@ -15,17 +15,12 @@
 
 ## About me
 
-```ts
-const nikhil = {
-  role: "Software Engineer & Forward Deployed Engineer @ Bug0",
-  location: "New Delhi, India",
-  building: "Tandem, open-source team chat you host yourself",
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
-  learning: ["Docker", "Cloud", "DevOps"],
-};
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img src="assets/about-light.svg" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024, BSc Computer Science from the University of Delhi. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building Tandem, open-source team chat you host yourself." width="100%">
+</picture>
 
-Right now most of my evenings go into **[Tandem](https://github.com/Blazeiscoding/Tandem)**. You run the server on a VPS, or host a workspace from your own PC the way you'd open a Minecraft world to LAN, and every message, file and account stays in one folder on your machine.
+<sub>Tandem lives at <a href="https://github.com/Blazeiscoding/Tandem">github.com/Blazeiscoding/Tandem</a>. Every message, file and account stays in one folder on the host's machine.</sub>
 
 ## Featured projects
 

@@ -5,6 +5,7 @@ Every image on the profile README is drawn by a script in this folder. Run them 
 | Image | Script | Command |
 | --- | --- | --- |
 | Header | `header.mjs` | `node .github/readme/header.mjs .github/readme assets` |
+| About me | `about.mjs` | `node .github/readme/about.mjs assets` |
 | Fig 1, Better-learn | `fig1.mjs` | `node .github/readme/fig1.mjs .github/readme assets` |
 | Tech stack | `stack.mjs` | `node .github/readme/stack.mjs .github/readme/icons assets` |
 | Screenshot frames | `frames.mjs` | `node .github/readme/frames.mjs assets` |

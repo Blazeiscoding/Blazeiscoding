@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="About me. Role: Software Engineer &amp; Forward Deployed Engineer at Bug0. Based in: New Delhi, India. Freelance: Full-stack web apps since 2024. Studied: BSc Computer Science, University of Delhi. Works in: TypeScript, React, Next.js, Node.js, PostgreSQL. Learning: Docker, cloud and DevOps. Now building Tandem: Open-source team chat you host yourself. Run the server on a VPS, or host a workspace from your own PC, the way you'd open a Minecraft world to LAN.">
+<style>.live{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}@media (prefers-reduced-motion:reduce){.live{animation:none}}</style>
+<rect x="0.5" y="0.5" width="999" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="36" y="54.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">ROLE</text>
+<text x="154" y="55.5" fill="#e6edf3" style="font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">Software Engineer &amp; Forward Deployed Engineer at Bug0</text>
+<line x1="36" x2="588" y1="70" y2="70" stroke="#21262d"/>
+<text x="36" y="94.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">BASED IN</text>
+<text x="154" y="95.5" fill="#e6edf3" style="font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">New Delhi, India</text>
+<line x1="36" x2="588" y1="110" y2="110" stroke="#21262d"/>
+<text x="36" y="134.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">FREELANCE</text>
+<text x="154" y="135.5" fill="#e6edf3" style="font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">Full-stack web apps since 2024</text>
+<line x1="36" x2="588" y1="150" y2="150" stroke="#21262d"/>
+<text x="36" y="174.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">STUDIED</text>
+<text x="154" y="175.5" fill="#e6edf3" style="font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">BSc Computer Science, University of Delhi</text>
+<line x1="36" x2="588" y1="190" y2="190" stroke="#21262d"/>
+<text x="36" y="214.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">WORKS IN</text>
+<text x="154" y="215.5" fill="#e6edf3" style="font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">TypeScript, React, Next.js, Node.js, PostgreSQL</text>
+<line x1="36" x2="588" y1="230" y2="230" stroke="#21262d"/>
+<text x="36" y="254.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">LEARNING</text>
+<text x="154" y="255.5" fill="#e6edf3" style="font:400 16px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">Docker, cloud and DevOps</text>
+<rect x="616" y="22" width="362" height="256" rx="8" fill="#151b23" stroke="#262c36"/>
+<circle class="live" cx="642" cy="53" r="4.5" fill="#3fb950"/>
+<text x="656" y="57.5" fill="#656c76" style="font:500 12.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em">NOW BUILDING</text>
+<text x="636" y="102" fill="#e6edf3" style="font:650 32px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:-.01em">Tandem</text>
+<text x="636" y="136" fill="#9198a1" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">Open-source team chat you host yourself.</text>
+<text x="636" y="159" fill="#9198a1" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">Run the server on a VPS, or host a</text>
+<text x="636" y="182" fill="#9198a1" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">workspace from your own PC, the way you'd</text>
+<text x="636" y="205" fill="#9198a1" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">open a Minecraft world to LAN.</text>
+<line x1="636" x2="958" y1="236" y2="236" stroke="#262c36"/>
+<text x="636" y="261" fill="#656c76" style="font:400 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">TypeScript · MIT</text>
+</svg>
