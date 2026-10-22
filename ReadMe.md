@@ -69,12 +69,10 @@ Right now most of my evenings go into **[Tandem](https://github.com/Blazeiscodin
 
 ## Tech I use
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cbun%2Cvite%2Ctailwind%2Cprisma%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Caws%2Cvercel%2Cgit%2Cpostman%2Ccpp%2Cc&perline=10">
-    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cbun%2Cvite%2Ctailwind%2Cprisma%2Cpostgres%2Cmongodb%2Credis%2Cdocker%2Caws%2Cvercel%2Cgit%2Cpostman%2Ccpp%2Cc&perline=10&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Bun, Vite, Tailwind CSS, Prisma, PostgreSQL, MongoDB, Redis, Docker, AWS, Vercel, Git, Postman, C++, C">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Languages: TypeScript, JavaScript, C++, C. Frontend: React, Next.js, Tailwind CSS, Vite. Backend: Node.js, Express, Bun, Prisma. Data: PostgreSQL, MongoDB, Redis. Ship: Docker, AWS, Vercel, Git, Postman." width="100%">
+</picture>
 
 ## GitHub stats
 
