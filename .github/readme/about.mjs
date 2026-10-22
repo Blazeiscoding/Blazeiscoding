@@ -10,7 +10,6 @@ const FACTS = [
   ["Role", "Software Engineer & Forward Deployed Engineer at Bug0"],
   ["Based in", "New Delhi, India"],
   ["Freelance", "Full-stack web apps since 2024"],
-  ["Studied", "BSc Computer Science, University of Delhi"],
   ["Works in", "TypeScript, React, Next.js, Node.js, PostgreSQL"],
   ["Learning", "Docker, cloud and DevOps"],
 ];
@@ -23,7 +22,7 @@ const NOW = {
 
 const W = 1000;
 const TOP = 30;
-const ROW = 40;
+const ROW = 46;
 const H = TOP * 2 + FACTS.length * ROW;
 const LEFT = 36;
 const KEY_W = 118;

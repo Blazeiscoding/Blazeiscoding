@@ -17,7 +17,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-  <img src="assets/about-light.svg" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024, BSc Computer Science from the University of Delhi. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building Tandem, open-source team chat you host yourself." width="100%">
+  <img src="assets/about-light.svg" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building Tandem, open-source team chat you host yourself." width="100%">
 </picture>
 
 <sub>Tandem lives at <a href="https://github.com/Blazeiscoding/Tandem">github.com/Blazeiscoding/Tandem</a>. Every message, file and account stays in one folder on the host's machine.</sub>
