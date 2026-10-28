@@ -66,7 +66,7 @@ for (const [name, t] of Object.entries(THEMES)) {
 @keyframes h-blink{50%{opacity:0}}
 @keyframes h-pulse{0%,100%{opacity:1}50%{opacity:.35}}
 @media (prefers-reduced-motion:reduce){.h-cursor,.h-live{animation:none}}`;
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" class="iso-svg iso" data-theme="${name}" viewBox="0 0 ${WIDTH} ${HEIGHT}" width="${WIDTH}" height="${HEIGHT}" role="img" aria-label="Nikhil Rathore. Full stack developer in New Delhi. Software Engineer at Bug0, building Tandem.">
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" class="iso-svg iso" data-theme="${name}" viewBox="0 0 ${WIDTH} ${HEIGHT}" width="${WIDTH}" height="${HEIGHT}" role="img" aria-label="Nikhil Rathore. Full stack developer in New Delhi. Software Engineer at Bug0, building OwnBase.">
 <style>${css}</style>
 <defs>
 <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="1" fill="${t.grid}"/></pattern>
@@ -80,7 +80,7 @@ for (const [name, t] of Object.entries(THEMES)) {
 <text class="h-name" x="48" y="134">Nikhil Rathore</text>
 <text class="h-role" x="52" y="174">Full stack developer in New Delhi. TypeScript, React, Next.js, Node.</text>
 <circle class="h-live" cx="58" cy="212" r="4.5"/>
-<text class="h-status" x="72" y="217">Software Engineer at Bug0 <tspan fill="${t.muted}">·</tspan> building Tandem</text>
+<text class="h-status" x="72" y="217">Software Engineer at Bug0 <tspan fill="${t.muted}">·</tspan> building OwnBase</text>
 ${cards()}
 </svg>`;
   writeFileSync(join(outDir, `header-${name}.svg`), svg);

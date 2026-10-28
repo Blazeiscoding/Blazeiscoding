@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Nikhil Rathore. Full stack developer in New Delhi. Software Engineer at Bug0, building Tandem." width="100%">
+  <img src="assets/header-light.svg" alt="Nikhil Rathore. Full stack developer in New Delhi. Software Engineer at Bug0, building OwnBase." width="100%">
 </picture>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-  <img src="assets/about-light.svg" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building Tandem, open-source team chat you host yourself." width="100%">
+  <img src="assets/about-light.svg" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building OwnBase, open-source team chat you host yourself." width="100%">
 </picture>
 
-<sub>Tandem lives at <a href="https://github.com/Blazeiscoding/Tandem">github.com/Blazeiscoding/Tandem</a>. Every message, file and account stays in one folder on the host's machine.</sub>
+<sub>OwnBase lives at <a href="https://github.com/Blazeiscoding/OwnBase">github.com/Blazeiscoding/OwnBase</a>. Every message, file and account stays in one folder on the host's machine.</sub>
 
 ## Featured projects
 
