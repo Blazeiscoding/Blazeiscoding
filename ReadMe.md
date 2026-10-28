@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Nikhil Rathore. Full stack developer in New Delhi. Software Engineer at Bug0, building OwnBase." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/header-dark.svg?v=ownbase">
+  <img src="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/header-light.svg?v=ownbase" alt="Nikhil Rathore. Full stack developer in New Delhi. Software Engineer at Bug0, building OwnBase." width="100%">
 </picture>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ## About me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-  <img src="assets/about-light.svg" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building OwnBase, open-source team chat you host yourself." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/about-dark.svg?v=ownbase">
+  <img src="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/about-light.svg?v=ownbase" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building OwnBase, open-source team chat you host yourself." width="100%">
 </picture>
 
 <sub>OwnBase lives at <a href="https://github.com/Blazeiscoding/OwnBase">github.com/Blazeiscoding/OwnBase</a>. Every message, file and account stays in one folder on the host's machine.</sub>
