@@ -24,5 +24,5 @@
 <text x="636" y="182" fill="#59636e" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">workspace from your own PC, the way you'd</text>
 <text x="636" y="205" fill="#59636e" style="font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">open a Minecraft world to LAN.</text>
 <line x1="636" x2="958" y1="226" y2="226" stroke="#d1d9e0"/>
-<text x="636" y="251" fill="#818b98" style="font:400 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">TypeScript · MIT</text>
+<text x="636" y="251" fill="#818b98" style="font:400 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">ownbase.site · TypeScript · MIT</text>
 </svg>

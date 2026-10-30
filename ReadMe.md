@@ -16,11 +16,11 @@
 ## About me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/about-dark.svg?v=ownbase">
-  <img src="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/about-light.svg?v=ownbase" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building OwnBase, open-source team chat you host yourself." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/about-dark.svg?v=ownbase-site">
+  <img src="https://raw.githubusercontent.com/Blazeiscoding/Blazeiscoding/main/assets/about-light.svg?v=ownbase-site" alt="Software Engineer and Forward Deployed Engineer at Bug0, based in New Delhi. Freelancing on full-stack web apps since 2024. Works in TypeScript, React, Next.js, Node.js and PostgreSQL, learning Docker, cloud and DevOps. Now building OwnBase, open-source team chat you host yourself, at ownbase.site." width="100%">
 </picture>
 
-<sub>OwnBase lives at <a href="https://github.com/Blazeiscoding/OwnBase">github.com/Blazeiscoding/OwnBase</a>. Every message, file and account stays in one folder on the host's machine.</sub>
+<sub>OwnBase is in public beta at <a href="https://ownbase.site/">ownbase.site</a>, and the code lives at <a href="https://github.com/Blazeiscoding/OwnBase">github.com/Blazeiscoding/OwnBase</a>. Every message, file and account stays in one folder on the host's machine.</sub>
 
 ## Featured projects
 
@@ -64,12 +64,12 @@
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/note-master-frame-dark.svg">
-        <img src="assets/note-master-frame-light.svg" alt="Note Master screenshot" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/ownbase-frame-dark.svg">
+        <img src="assets/ownbase-frame-light.svg" alt="OwnBase screenshot" width="100%">
       </picture>
-      <h3><a href="https://notemaster-app.vercel.app/">Note Master</a> <sup><a href="https://github.com/Blazeiscoding/notemaster-app">code</a></sup></h3>
-      <p>Mobile-first notes app with per-user encryption. Works offline as a guest and syncs once you sign in.</p>
-      <sub>Next.js · TypeScript · Clerk · PostgreSQL</sub>
+      <h3><a href="https://ownbase.site/">OwnBase</a> <sup><a href="https://github.com/Blazeiscoding/OwnBase">code</a></sup></h3>
+      <p>Team chat you host yourself, on a VPS or from the desktop app on your own PC. Channels, threads, calls with screen share, and a Slack-compatible API for bots.</p>
+      <sub>Electron · React · Node.js · SQLite · WebRTC</sub>
     </td>
   </tr>
 </table>

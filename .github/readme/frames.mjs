@@ -9,7 +9,7 @@ const SHOTS = [
   ["better-learn", "better-learn.tech"],
   ["sketchschema", "sketchema.vercel.app"],
   ["coding-shastra", "codingshastra.nikhilrathore.com"],
-  ["note-master", "notemaster-app.vercel.app"],
+  ["ownbase", "ownbase.site"],
 ];
 
 const W = 960;

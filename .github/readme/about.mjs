@@ -17,7 +17,7 @@ const FACTS = [
 const NOW = {
   title: "OwnBase",
   lines: ["Open-source team chat you host yourself.", "Run the server on a VPS, or host a", "workspace from your own PC, the way you'd", "open a Minecraft world to LAN."],
-  foot: "TypeScript · MIT",
+  foot: "ownbase.site · TypeScript · MIT",
 };
 
 const W = 1000;
